@@ -58,6 +58,28 @@
   #### Average Mark :
     - The average score of the category
   #### Status :
-    - 
+    - Not passed
+    - Passed
+    - Passed With Conditions
+  ### Student Transcripts Table:
+  ![image](https://user-images.githubusercontent.com/107567921/175304769-2f7493ed-cc66-4d70-99dd-5df1866ab2b3.png)
+  #### Grade category(List of names of points):
+    - Quiz
+    - Assignment
+    - Labs
+    - Workshops
+    - PE (Practice Exam)
+    - FE (Final Exam)
+    - Final Exam Resit
+  #### Grade Item :
+    - Item
+    - Total
+  #### Weight :
+    - Weight of each category (Also available in Syllabus table)
+  #### Value :
+    - Student have score with weight
+    
+
+    
 
   
