@@ -128,7 +128,7 @@ Having AVG(Score) >5
 -- test
 GO
 -- procedure calculator sub_total
-CREATE PROC select_sub_total
+Create PROC select_sub_total
 AS
 BEGIN
 	SELECT g.sID, a.CourseID, c.CategoryID, AVG(Score) as sub_total, [Completion Criteria] FROM Grade g
